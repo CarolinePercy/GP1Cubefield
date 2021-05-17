@@ -1,3 +1,4 @@
+#define TINYC2_IMPL
 #include <Game.h>
 
 int main(void)

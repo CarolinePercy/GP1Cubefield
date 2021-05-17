@@ -1,7 +1,9 @@
-﻿  Easing.cpp
-  Game.cpp
-  GameObject.cpp
-  Main.cpp
-  Generating Code...
-  stb_image.c
-  SFMLOpenGL.vcxproj -> E:\Work\Second Year\Game Play Programming\Practicals\Practical 14\GP1Practical14\Debug\SFMLOpenGL.exe
+﻿  GameObject.cpp
+E:\Work\Second Year\Game Play Programming\Projects\GP1Cubefield\SFMLOpenGL\GameObject.cpp(148): warning C4715: 'GameObject::getVertexCount': not all control paths return a value
+E:\Work\Second Year\Game Play Programming\Projects\GP1Cubefield\SFMLOpenGL\GameObject.cpp(133): warning C4715: 'GameObject::getVertex': not all control paths return a value
+E:\Work\Second Year\Game Play Programming\Projects\GP1Cubefield\SFMLOpenGL\GameObject.cpp(164): warning C4715: 'GameObject::getColor': not all control paths return a value
+E:\Work\Second Year\Game Play Programming\Projects\GP1Cubefield\SFMLOpenGL\GameObject.cpp(183): warning C4715: 'GameObject::getColorCount': not all control paths return a value
+E:\Work\Second Year\Game Play Programming\Projects\GP1Cubefield\SFMLOpenGL\GameObject.cpp(199): warning C4715: 'GameObject::getUV': not all control paths return a value
+E:\Work\Second Year\Game Play Programming\Projects\GP1Cubefield\SFMLOpenGL\GameObject.cpp(214): warning C4715: 'GameObject::getUVCount': not all control paths return a value
+E:\Work\Second Year\Game Play Programming\Projects\GP1Cubefield\SFMLOpenGL\GameObject.cpp(230): warning C4715: 'GameObject::getIndex': not all control paths return a value
+  SFMLOpenGL.vcxproj -> E:\Work\Second Year\Game Play Programming\Projects\GP1Cubefield\Debug\SFMLOpenGL.exe
